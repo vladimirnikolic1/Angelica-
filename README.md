@@ -20,6 +20,8 @@ Weight | wght | 400 | Regular
 
 ![Image](documentation/image4.png)
 
+![Image](documentation/image6.png)
+
 ![Image](documentation/image5.png)
 
 ![Image](documentation/3d.png)
