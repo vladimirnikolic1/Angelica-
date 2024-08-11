@@ -14,17 +14,17 @@ Axis | Tag | Default | Static Instances
 --- | --- | --- | ---
 Weight | wght | 400 | Regular
 
-![Image](documentation/image2.png)
 
-![Image](documentation/image3.png)
+## Variable Font Axe
 
-![Image](documentation/image4.png)
+Angelica-Bold has the following axe:
 
-![Image](documentation/image6.png)
+Axis | Tag | Default | Static Instances
+--- | --- | --- | ---
+Weight | wght | 700 | Bold
 
-![Image](documentation/image5.png)
+![Image](documentation/image7.png)
 
-![Image](documentation/3d.png)
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
