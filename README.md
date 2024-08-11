@@ -14,9 +14,6 @@ Axis | Tag | Default | Static Instances
 --- | --- | --- | ---
 Weight | wght | 400 | Regular
 
-
-## Variable Font Axe
-
 Angelica-Bold has the following axe:
 
 Axis | Tag | Default | Static Instances
