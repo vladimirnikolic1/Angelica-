@@ -24,6 +24,8 @@ Weight | wght | 700 | Bold
 
 ![Image](documentation/image_11.png)
 
+![Image](documentation/image_12.png)
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
