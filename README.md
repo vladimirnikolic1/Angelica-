@@ -20,7 +20,7 @@ Axis | Tag | Default | Static Instances
 --- | --- | --- | ---
 Weight | wght | 700 | Bold
 
-![Image](documentation/image7.png)
+![Image](documentation/image8.png)
 
 ## License
 
