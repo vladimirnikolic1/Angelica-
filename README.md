@@ -20,11 +20,11 @@ Axis | Tag | Default | Static Instances
 --- | --- | --- | ---
 Weight | wght | 700 | Bold
 
-![Image](documentation/image8.png)
+![Image](documentation/image5.png)
 
-![Image](documentation/image_11.png)
+![Image](documentation/image6.png)
 
-![Image](documentation/image_12.png)
+![Image](documentation/image4.png)
 
 ## License
 
