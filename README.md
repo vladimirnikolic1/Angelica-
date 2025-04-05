@@ -10,15 +10,15 @@ Angelica is a female name is derived from Latin "angelicus" meaning "angelic".
 
 Angelica has the following axe:
 
-Axis | Tag | Default | Static Instances
---- | --- | --- | ---
-Weight | wght | 400 | Regular
+  Tag | Default | Static Instances
+--- | --- | ---
+  wght | 400 | Regular
 
 Angelica-Bold has the following axe:
 
-Axis | Tag | Default | Static Instances
---- | --- | --- | ---
-Weight | wght | 700 | Bold
+  Tag | Default | Static Instances
+--- | --- | ---
+  wght | 700 | Regular
 
 ![Image](documentation/image5.png)
 
