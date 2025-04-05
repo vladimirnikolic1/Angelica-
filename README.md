@@ -16,15 +16,7 @@ Angelica has the following axe:
 
 Angelica-Bold has the following axe:
 
-  Tag | Default | Static Instances
---- | --- | ---
-  wght | 700 | Regular
-
-![Image](documentation/image5.png)
-
-![Image](documentation/image6.png)
-
-![Image](documentation/image4.png)
+![Image](documentation/image2.png)
 
 ## License
 
