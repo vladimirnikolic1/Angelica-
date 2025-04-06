@@ -14,8 +14,6 @@ Angelica has the following axe:
 --- | --- | ---
   wght | 400 | Regular
 
-Angelica-Bold has the following axe:
-
 ![Image](documentation/image2.png)
 
 ## Image License
