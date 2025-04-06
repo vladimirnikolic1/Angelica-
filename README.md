@@ -1,7 +1,5 @@
 # Angelica
 
-# Angelica font
-
 ![Image](documentation/image1.png)
 
 Angelica is a female name is derived from Latin "angelicus" meaning "angelic".
