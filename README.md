@@ -19,4 +19,7 @@ The images in this repository are licensed under the CC https://creativecommons.
 
 ## License
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is available with a FAQ at [https://openfontlicense.org](https://openfontlicense.org)
+This license is available with a FAQ at [https://openfontlicense.org]
+
+# Repo
+This font repository structure is inspired by Unified Font Repository v0.3, modified for the Google Fonts workflow.
